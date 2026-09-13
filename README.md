@@ -200,5 +200,3 @@ Endpoints covered:
   - ✅ Secure password hashing (`password_hash` with BCRYPT) & JWT token authentication
   - ✅ Relational MySQL database with foreign keys & transaction rollbacks
   - ✅ Comprehensive documentation & Postman test suite
-#   C - M y t h i n g s - m y a s s i s n m e n t i n s e m e s t e r 3 - M o b i l e - a n d - w e b - p r o j e c t - o n l i n e _ b o o k s t o r e  
- 
